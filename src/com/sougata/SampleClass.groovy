@@ -2,10 +2,10 @@
 package com.sougata
 
 class SampleClass {
-   String name
-   Integer age
+	String name
+	Integer age
 
-   def increaseAge(Integer years) {
-      this.age += years
-   }
+	def increaseAge(Integer years) {
+		this.age += years
+    }
 }
